@@ -1,6 +1,6 @@
 # Scaling Bitcoin
 
-This repo and corresponding [readthedocs publication](http://scaling-bitcoin.readthedocs.org/en/latest/) / [PDF](https://media.readthedocs.org/pdf/scaling-bitcoin/latest/scaling-bitcoin.pdf) was created to facilitate the ongoing dialogue on scaling bitcoin. Pull requests welcome!
+This repo, as well as its corresponding [readthedocs publication](http://scaling-bitcoin.readthedocs.org/en/latest/) / [PDF](https://media.readthedocs.org/pdf/scaling-bitcoin/latest/scaling-bitcoin.pdf), was created to facilitate the ongoing dialogue on scaling bitcoin. Pull requests welcome!
 
 For information on the RST syntax, consult the [Sphinx docs](http://sphinx-doc.org/rest.html).
 
