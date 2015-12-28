@@ -66,7 +66,7 @@ Average Upload and Download Bandwidth Increases Over Time
 What should be the acceptable limit? What would be the growth over time?
 ************************************************************************
 
-* Suggestion by `G1lius <https://github.com/G1lius>`_
+* `Github Issue 1 <https://github.com/FugueWeb/Scaling_Bitcoin/issues/1>`_
 
 I propose 200GB and 20% annually for pruned nodes. iirc comcast caps at 300GB, so 200GB seems like a good upper limit. In my country it hasn't increased 20% annually, but consumer demand for lots of data-usage is increasing a lot, so I think we can be optimistic.
 
