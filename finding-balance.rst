@@ -62,6 +62,18 @@ Average Upload and Download Bandwidth Increases Over Time
 
 `Average upload and download bandwidth <http://digitalchina.blogg.lu.se/why-so-fast-upload-speeds-in-eastern-europe-and-central-asia/>`_ increases in a linear logarithmic trend. Both upload and download bandwidth follow the same trend of doubling roughly every two years, or increasing 40% per year.
 
+************************************************************************
+What should be the acceptable limit? What would be the growth over time?
+************************************************************************
+
+* Suggestion by `G1lius <https://github.com/G1lius>`_
+
+I propose 200GB and 20% annually for pruned nodes. iirc comcast caps at 300GB, so 200GB seems like a good upper limit. In my country it hasn't increased 20% annually, but consumer demand for lots of data-usage is increasing a lot, so I think we can be optimistic.
+
+For full nodes it should be a limit where limit+ 'more than average usage' will start to raise red flags with providers. If I had to pick a number I'd pick 1TB +20% annually, but I don't have any data to back that up.
+
+To estimate the total bandwidth usage after IBLT and for pruned nodes (as they don't serve historical blocks) it would be great to have some data on transaction relaying and block relaying separately, so if anyone has some data on this that would be great.
+
 *****
 Price
 *****
